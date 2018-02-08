@@ -15,11 +15,14 @@ if ($ExtUtils::MakeMaker::VERSION > 6.64) {
 }
 
 WriteMakefile(
-    NAME                => 'Perl6::Doc::Grant::Proposal',
-    AUTHOR              => 'JJ Merelo <jj /at/ merelo.net>',
-    VERSION_FROM        => 'lib/Perl6/Doc/Grant/Proposal.pod',
-    ABSTRACT_FROM       => 'lib/Perl6/Doc/Grant/Proposal.pod',
-    LICENSE => 'gpl',
+	      NAME                => 'Perl6::Doc::Grant::Proposal',
+	      AUTHOR              => 'JJ Merelo <jj /at/ merelo.net>',
+	      VERSION_FROM        => 'lib/Perl6/Doc/Grant/Proposal.pod',
+	      ABSTRACT_FROM       => 'lib/Perl6/Doc/Grant/Proposal.pod',
+	      LICENSE             => 'gpl',
+	      test                => {
+				   TESTS           => ['xt/pod.t'],
+				  },
     PREREQ_PM => { 
 		  'Test::Pod' => 0,
 		  'version'    => 0,
