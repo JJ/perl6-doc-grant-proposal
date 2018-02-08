@@ -1,6 +1,6 @@
 package Perl6::Doc::Grant::Proposal;
-use version; our $VERSION =  qv("0.00.01");
 
+use version; our $VERSION =  qv("0.00.02");
 
 =encoding utf8
 
@@ -37,7 +37,7 @@ documentation by
 
 =head1 My name
 
-Juan J. Merelo, L<JJ in GitHub|https://github.com/JJ>, L<JMERELO in CPAN|https://metacpan.org/author/JMERELO>, L<jjmerelo in Medium|https://medium.com/@jjmerelo>, L<JJ in The Practical Dev|https://dev.to/JJ>
+Juan J. Merelo, L<JJ in GitHub|https://github.com/JJ>, L<JMERELO in CPAN|https://metacpan.org/author/JMERELO>, L<jjmerelo in Medium|https://medium.com/@jjmerelo>, L<JJ in The Practical Dev|https://dev.to/JJ>.
 
 =head1 Benefits to the Perl6 community and Perl community at large
 
