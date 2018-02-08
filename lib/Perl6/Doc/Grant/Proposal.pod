@@ -6,7 +6,17 @@ use version; our $VERSION =  qv("0.00.01");
 
 Perl6::Doc::Grant::Proposal - Improving, coordinating and guide self-organization of Perl 6 documentation, a grant proposal.
 
-=head1 DESCRIPTION
+=head1 Project title
+
+=head2 Synopsis
+
+=head2 My name
+
+=head2 Benefits to the Perl6 community and Perl community at large
+
+=head2 Project details and schedule
+
+=head2 Requested amount for the Project Grant
 
 =head1 SEE ALSO
 
