@@ -1,0 +1,18 @@
+=encoding utf8
+
+use version; our $VERSION =  qv("0.00.01");
+
+=head1 NAME
+
+Perl6::Doc::Grant::Proposal - Improving, coordinating and guide self-organization of Perl 6 documentation, a grant proposal.
+
+=head1 DESCRIPTION
+
+=head1 SEE ALSO
+
+=head1 Copyright
+  
+  This file is released under the GPL. See the LICENSE file included in this distribution,
+  or go to http://www.fsf.org/licenses/gpl.txt
+
+=cut
