@@ -175,7 +175,19 @@ Whatever amount is the usual for two months, part time, work.
 
 =head1 SEE ALSO
 
+=over 4
 
+=item L<https://docs.perl.org>, main documentation page and its
+L<GitHub repository|https://github.com/perl6/doc>.
+
+=item L<Monthly statistics|https://github.com/perl6/doc/pulse/monthly>
+for the GitHub repo, showing 42 active issues during that time.
+
+=item L<My contributions to the repo so
+far|https://github.com/perl6/doc/commits?author=JJ>, with position 41
+in the ranking.
+
+=back
 
 =head1 Copyright
   
