@@ -35,6 +35,22 @@ documentation by
 
 =back 
 
+In general, the main intention of this work is to attract new users or
+retain them after they make their first attempts to work with the
+language. So far and unfortunately, Perl6 has failed to attract users
+and it stands in the lower 10% of the top 100 languages in GitHub
+according to the number of pull requests. It has around 2 questions a
+week in StackOverflow, and in general they are advanced questions,
+with no space for first steps. Once again, documentation is not
+development (or not fully), but it is essential to attract a critical
+mass of developers, that will go on to develop the next killer
+application that uses Perl6. It has got to reach from the entry-level
+programmers to the more advanced ones. 
+
+So my main objective, and the stick by which it will be measured, is
+the attention gathered by the language and how the user base
+increases. 
+
 =head1 My name
 
 Juan J. Merelo, L<JJ in GitHub|https://github.com/JJ>, L<JMERELO in CPAN|https://metacpan.org/author/JMERELO>, L<jjmerelo in Medium|https://medium.com/@jjmerelo>, L<JJ in The Practical Dev|https://dev.to/JJ>.
