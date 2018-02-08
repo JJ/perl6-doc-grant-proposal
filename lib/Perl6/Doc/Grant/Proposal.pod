@@ -1,8 +1,8 @@
 package Perl6::Doc::Grant::Proposal;
+use version; our $VERSION =  qv("0.00.01");
+
 
 =encoding utf8
-
-use version; our $VERSION =  qv("0.00.01");
 
 =head1 NAME
 
@@ -12,24 +12,34 @@ Perl6::Doc::Grant::Proposal - Improving, coordinating and guide self-organizatio
 
 Curation and development toward the next generation of Perl6 documentation.
 
-=head2 Synopsis
+=head1 Synopsis
 
-The documentation of Perl6 at https://github.com/perl6/doc is an impressive piece of work, but working on it has revealed some problems. I propose to work part time for two months on improving this documentation by
+The documentation of Perl6 at https://github.com/perl6/doc is an
+impressive piece of work, but working on it has revealed some
+problems. I propose to work part time for two months on improving this
+documentation by
 
 =over 4
+
 =item working on all outstanding issues and address all of the issues in 2015, 2016 and 2017,
+
 =item creating a set of rules for existing and new contributions and enforce those rules in the test suite,
+
 =item assigning outstanding issues during the grant and create a system for assigning work to volunteers,
+
 =item creating an entry page with a tutorial for complete beginners with very little or no knowledge of programming, with the intent of providing a good landing page for the language
+
 =item contributing to Perl and general open source conferences with entry-level tutorials and learning material, and
+
 =item writing articles in websites such as The Practical Dev (https://dev.to), HackerNoon or Medium with practical "30 minutes" tutorials to perform usual tasks in Perl6.
+
 =back 
 
-=head2 My name
+=head1 My name
 
 Juan J. Merelo, L<JJ in GitHub|https://github.com/JJ>, L<JMERELO in CPAN|https://metacpan.org/author/JMERELO>, L<jjmerelo in Medium|https://medium.com/@jjmerelo>, L<JJ in The Practical Dev|https://dev.to/JJ>
 
-=head2 Benefits to the Perl6 community and Perl community at large
+=head1 Benefits to the Perl6 community and Perl community at large
 
 Curating documentation is an integral part of the development
 process. Besides including work on little code snippets, that have to
@@ -45,23 +55,35 @@ perl6ish data structures and functions. Curation of the
 documentation base will help to make it sustainable on the long term,
 which will eventually benefit the communities at large.
 
+=head1 Project details
+
+Here are the rest of the project details, starting with the
+deliverables. 
+
 =head2 Deliverables
 
 These is what I will deliver during and by the end of the grant.
 
 =over 4
+
 =item Addressing 5 doc issues per day on average, minimum 2 issues per day. Reduce the amount of open issues by at least 120.
+
 =item Write guidelines for contributions and write test code for enforcing it.
+
 =item Analyze landing pages and site paths and contribute to work on
 preferred landing pages. Produce report to improve usability of the
 site. 
+
 =item Contribute 1 entry-level tutorial per week, to be published preferably on non-perl publications (Medium, dev.to, hackernoon).
+
 =item Monitor StackOverflow and answer and/or identify needs to be addressed in documentation. Contribute to work on those pages or create new ones.
+
 =item Hang out at the IRC channel to help newcomers in general and
 identify possible problems in documentation; address them when
 needed. In general, monitor all possible channels where people might
 need help with Perl6 and, besides helping when needed, try to identify
 possible problems in the documentation.
+
 =back
 
 =head2 Project details and schedule
@@ -110,26 +132,40 @@ Perl Workshop) if it's considered
 necessary. I can organize locally a documentation hackathon by the end
 of the grant or do an online squashathon. 
 
-=head3 Project schedule
+=head2 Project schedule
+
 =over 4
+
 =item Day 7: identify core of people working on the documentation and create an open channel of communication, for instance, a Telegram channel with the GitHub bot connected. Use it for meta-discussions. Then, daily: work on that channel to add a small layer of organization, assign tasks, discuss issues.
+
 =item Daily: monitor StackOverflow, Perl6 IRC channel, Twitter and other social networks for people needing help with Perl6. Identify main sources of problem.
+
 =item As-it-happens: check out PRs for documentation, engage them, accept them if adequate. Check out new issues, engage and assign them to self.
+
 =item Weekly: produce entry-level tutorials and publication on non-perl sites.
+
 =item Daily: work on outstanding perl6/doc issues, starting with the first. Target: 5 a day, minimum 2 a day.
+
 =item Day 15: produce a report on site use and usability. Day 30: implement improvements. Day 45: analyze improvements and produce report on site visits and interactions. Day 60: implement second round of improvements.
+
 =item Day 15: RFC of guidelines for documentation and code included with it. Day 30: code implementation of those guidelines.
+
 =item Day 45: organize online or offline Perl6 documentation hackathon in Granada (Spain) to address outstanding issues, improve code examples and in general add a layer of sustainability to the documentation effort.
+
 =back
+
 
 =head3 Report schedule
 
 =over 4
+
 =item The grant report will be integrated with the doc GitHub repo, as a ChangeLog or grant report folder. This ChangeLog will be updated as-it-happens.
+
 =item 4 reports, 2 a month, on activity happening outside the log:
 tutorials published, StackOverflow activity. They can be published
 wherever the committee sees fit. I can create a GitHub repo for the
 grant, for instance, and publish it as github pages.
+
 =back
 
 
@@ -138,6 +174,8 @@ grant, for instance, and publish it as github pages.
 Whatever amount is the usual for two months, part time, work. 
 
 =head1 SEE ALSO
+
+
 
 =head1 Copyright
   
